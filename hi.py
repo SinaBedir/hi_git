@@ -5,3 +5,6 @@ print("New Codes are entered to the branch")
 
 def hi():
     print("Naber Babuşke?")
+
+def merhaba():
+    print("Nasılsın?")
